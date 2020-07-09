@@ -55,7 +55,7 @@ Here ends Dave's original README.
 
 From here after, my contribution to the process:
 
-Create the .wav file by means of the program "c2t", a command line tool that can convert Apple-1/II Monitor text into audio files suitable for use with the Apple-1 cassette interface. 
+Create the .wav file by means of the program "c2t", a command line tool that can convert Apple-1 Monitor text into audio files suitable for use with the Apple-1 cassette interface. 
 
 https://github.com/datajerk/c2t
 
